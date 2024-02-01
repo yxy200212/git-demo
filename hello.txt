@@ -11,5 +11,5 @@ Hello Yexiaoyu! Hello Git!
 Hello Yexiaoyu! Hello Git!
 Hello Yexiaoyu! Hello Git!
 Hello Yexiaoyu! Hello Git!
-Hello Yexiaoyu! Hello Git!
+Hello Yexiaoyu! Hello Git! hot-fix test
 Hello Yexiaoyu! Hello Git! hot-fix test
